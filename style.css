@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+:root{
+  /*background-collors*/
+  --bg-collor-d: hsl(270, 100%, 20%);
+  --bg-collor-l: hsl(270, 100%, 96%);
+  /* Emphasis colors*/
+  --main-color: hsl(270, 100%, 30%);
+  --main-color-h: hsl(270, 100%, 50%);
+  --second-color-d: hsl(162, 100%, 30%);
+  --second-color-l: hsl(162, 100%, 50%);
+  --xpto: hsl(350, 73%, 25%);
+}
+
+header, body{
+  background-color: var(--bg-collor-l);
+}
+h1 span{
+  color: var(--main-color-h)
+}
+
+.challenge-days{
+  display: flex;
+}
+.day{
+  padding: 1.5em;
+  margin: 0.5em;
+  border-radius: 0.5em;
+  background-color: var(--second-color-l);
+}
