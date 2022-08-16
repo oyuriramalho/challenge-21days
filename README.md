@@ -1,2 +1,2 @@
-# challenge-21days
-Challenge: 21 days coding!
+# CHallenge: 21 days coding
+Marmitech's power forging a powerfull habit - NeverStopLearning
