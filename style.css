@@ -31,3 +31,8 @@ h1 span{
   border-radius: 0.5em;
   background-color: var(--second-color-l);
 }
+
+a{
+  text-decoration: none;
+  color: black;
+}

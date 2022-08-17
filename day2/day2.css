@@ -3,6 +3,29 @@
     padding:0;
     box-sizing: border-box;
   }
+
+  body{
+    background-color: var(--bg-collor-d);
+  }
+
   header h1{
-    margin: auto;
+    font-family: 'Berkshire Swash', cursive;
+    color: var(--second-color-l);
+    background-color: var(--bg-collor-d);
+    margin: 80px auto;
+    text-align: center;
+    text-shadow: 2px 2px var(--second-color-d);
+    
+  }
+
+  section{
+    color: var(--bg-collor-d);
+    width: 400px;
+    margin:0 auto;
+    align-content: center;
+  }
+
+  section:hover{
+    color: var(--second-color-l);
+  
   }
