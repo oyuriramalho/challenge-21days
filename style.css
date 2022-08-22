@@ -5,8 +5,8 @@
 }
 :root{
   /*background-collors*/
-  --bg-collor-d: hsl(270, 100%, 20%);
-  --bg-collor-l: hsl(270, 100%, 96%);
+  --bg-color-d: hsl(270, 100%, 20%);
+  --bg-color-l: hsl(270, 100%, 96%);
   /* Emphasis colors*/
   --main-color: hsl(270, 100%, 30%);
   --main-color-h: hsl(270, 100%, 50%);
@@ -16,7 +16,7 @@
 }
 
 header, body{
-  background-color: var(--bg-collor-l);
+  background-color: var(--bg-color-l);
 }
 h1 span{
   color: var(--main-color-h)

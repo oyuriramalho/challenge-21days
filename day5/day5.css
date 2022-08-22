@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 5em;
+  color: white;/* var(--main-color) */
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: var(--second-color-d);
+}
